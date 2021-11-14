@@ -1,3 +1,11 @@
+# Addendum
+This fork is meant to introduce support for two main features:
+
+* Support for vertically oriented screens (like on the Alfawise U30 Pro / Longer LK4 Pro)
+* Support for multiple extruders (conneted to the same toolhead)
+
+So far, none of this has been implemented yet.
+
 # DGUSPrinterMenu
 
 DGUS touchscreen firmware for 3D printers running Klipper with support for custom menus.
